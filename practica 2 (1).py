@@ -58,3 +58,6 @@ print (precio * IVA)
 print ("este es el precio total")
 print (precio + precio * IVA)
 
+print ("--------------espacio--------------")
+
+valores = a,b
