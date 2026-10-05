@@ -11,9 +11,9 @@ print (contador)
 print ("---------------espacio de separacion----------------")
 
 print ("DATOS PERSONALES")
-nombre = ("wawa")
-edad = ("2234567 años")
-ciudad = ("narnia")
+nombre = ("Natalia")
+edad = ("22")
+ciudad = ("Narnia")
 print (nombre, edad, ciudad)
 
 print ("---------------espacio de separacion----------------")
@@ -81,3 +81,23 @@ print(raton, int)
 print (jirafa, float)
 print (abeja, bool)
 print(perro, str)
+
+print ("--------------espacio--------------")
+
+print ("CONVERTIR VARIABLES")
+
+texto = 50
+print(type(int(texto)))
+print (texto)
+print (type(str(texto)))
+print (texto)
+
+print ("--------------espacio--------------")
+
+print ("COMPARACIONES")
+
+print (variablemayor, variablemenor)
+variablemayor = 100
+variablemenor = 10
+variablemayor > variablemenor
+print (variablemayor > variablemenor)
