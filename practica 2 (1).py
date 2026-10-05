@@ -61,6 +61,6 @@ print (precio + precio * IVA)
 print ("--------------espacio--------------")
 
 print ("INTERCAMBIO DE VALORES")
-valornumero1 = 20
-valornumero2 = 10
-print (valornumero1), print (valornumero2)
+variable1 = 20
+variable2 = 40
+print ("variables:"), print (variable1, variable2)
