@@ -95,9 +95,9 @@ print (texto)
 print ("--------------espacio--------------")
 
 print ("COMPARACIONES")
-
-print (variablemayor, variablemenor)
 variablemayor = 100
 variablemenor = 10
+print (variablemayor, variablemenor)
+
 variablemayor > variablemenor
 print (variablemayor > variablemenor)
