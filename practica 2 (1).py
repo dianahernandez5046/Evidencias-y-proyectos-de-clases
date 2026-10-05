@@ -63,4 +63,21 @@ print ("--------------espacio--------------")
 print ("INTERCAMBIO DE VALORES")
 variable1 = 20
 variable2 = 40
+auxiliar = 10
 print ("variables:"), print (variable1, variable2)
+print ("variables intercambiadas")
+print (variable2 - auxiliar*2)
+print (variable1 + auxiliar*2)
+
+print ("--------------espacio--------------")
+
+print ("VARIABLES Y SUS TIPOS")
+raton = 10,type(int)
+jirafa = 4.5,type(float)
+abeja = True,type(bool)
+perro = ("gato"),type(str)
+print(str, bool,float, int)
+print(raton, int)
+print (jirafa, float)
+print (abeja, bool)
+print(perro, str)
